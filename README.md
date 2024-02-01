@@ -1,2 +1,2 @@
 # js-hemant
-A code repo for javascript series
+this is my 1st git repository-hemant jha
